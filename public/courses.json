@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "course_img": "https://i.ibb.co/9cPXDtH/Rectangle-2-2.png",
+    "title": "Introduction to C Programming",
+    "description": "Learn the basics of C programming language and build a strong foundation for software development. Ideal for beginners.",
+    "price": 15000,
+    "credit": 7
+  },
+  {
+    "id": 2,
+    "course_img": "https://i.ibb.co/Dk50WhJ/Rectangle-2-3.png",
+    "title": "Introduction to Algorithms",
+    "description": "Explore fundamental algorithms, data structures, and problem-solving techniques. Essential for aspiring computer scientists.",
+    "price": 20000,
+    "credit": 5
+  },
+  {
+    "id": 3,
+    "course_img": "https://i.ibb.co/w41TJSs/Rectangle-2-4.png",
+    "title": "Introduction to C++ for DSA",
+    "description": "Learn C++ programming with a focus on data structures and algorithms. Perfect for competitive coding enthusiasts.Boost your career.",
+    "price": 10000,
+    "credit": 4
+  },
+  {
+    "id": 4,
+    "course_img": "https://i.ibb.co/PjRLCvy/Rectangle-3.png",
+    "title": "Basic Data Structures",
+    "description": "Study essential data structures like arrays and linked lists. Must-know topics for software developers.",
+    "price": 35000,
+    "credit": 5
+  },
+  {
+    "id": 5,
+    "course_img": "https://i.ibb.co/gd6fT8Y/Rectangle-2.png",
+    "title": "Introduction to OOP Python",
+    "description": "Get started with object-oriented programming in Python. Practical skills for building applications.",
+    "price": 15000,
+    "credit": 3
+  },
+  {
+    "id": 6,
+    "course_img": "https://i.ibb.co/qYbWFgQ/Rectangle-2-5.png",
+    "title": "Software Engineering",
+    "description": "Learn software engineering principles and best practices. Prepare for a career in software development.",
+    "price": 20000,
+    "credit": 5
+  },
+  {
+    "id": 7,
+    "course_img": "https://i.ibb.co/8YgrKrV/Rectangle-3-1.png",
+    "title": "AWS,Cloud Computing",
+    "description": "Master AWS services and cloud computing concepts. Excel in the world of cloud technology.",
+    "price": 10000,
+    "credit": 5
+  },
+  {
+    "id": 8,
+    "course_img": "https://i.ibb.co/nkRD032/Rectangle-2-1.png",
+    "title": "Database (MySQL)",
+    "description": "Explore the fundamentals of MySQL database management. Essential for web developers and data analysts.",
+    "price": 35000,
+    "credit": 3
+  },
+  {
+    "id": 9,
+    "course_img": "https://i.ibb.co/HGp16dH/Rectangle-2-6.png",
+    "title": "Problem-Solving Part",
+    "description": "Enhance your problem-solving skills and tackle complex challenges. Essential for coding interviews.",
+    "price": 15000,
+    "credit": 7
+  }
+]
